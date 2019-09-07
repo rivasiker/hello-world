@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi there!
+
+I am testing GitHub for the first time :)
